@@ -1,5 +1,5 @@
 # Pipeline description
-This projects is a fine-tuning implementation of Qwen3-VL to read scanned health forms and output a single JSON object 
+This project is a fine-tuning implementation of Qwen3-VL to read scanned health forms and output a single JSON object 
 containing form metadata plus a table_html field with the transcribed table.
 
 ## Pipeline
